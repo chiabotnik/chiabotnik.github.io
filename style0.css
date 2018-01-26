@@ -1,0 +1,41 @@
+body {
+	text-align: center;
+	font-family: 'Supermercado One', cursive;
+}
+
+h1 {
+	font-size:42px;
+}
+
+h2 {
+	font-size:32px;
+	color:white;
+}
+
+#header {
+	background-color: #9dbef2;
+	padding: 50px; /* Space between edge of box and what's inside*/
+	margin-bottom: 50px; /*Space between edge of box and what's outside*/
+}
+
+#header h1, #header h2 {
+	color:white;
+}
+
+#about {
+	color:black;
+}
+
+#about_content img {
+	width: 120px;
+	border-radius:100px;
+}
+
+a:hover {
+	color: #b7b540;
+}
+/* Change the color of your hyperlinks */
+
+
+/* Consider using GitHub Pages, w3schools
+Google Color Picker; Google Font Family for formatting */
